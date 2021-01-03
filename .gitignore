@@ -1,0 +1,9 @@
+/csvs
+/json
+/playoff
+/regular
+/images
+/vjezba-csvs
+away_predictor.pkl
+home_predictor.pkl
+weather_predictor.pkl
